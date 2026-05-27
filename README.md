@@ -5,7 +5,7 @@ This portfolio showcases my projects, skills, education, and contact information
 
 ## 🚀 Live Website
 
-🔗 https://sudarshanv27.github.io/portfolio-profile/
+🔗 [https://sudarshanv27.github.io/portfolio-profile/](https://sudarshanv27.github.io/Portfolio-profile/)
 
 ---
 
